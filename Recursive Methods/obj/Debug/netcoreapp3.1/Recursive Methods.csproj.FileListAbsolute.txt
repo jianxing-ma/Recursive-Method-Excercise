@@ -1,0 +1,11 @@
+C:\Users\james\Desktop\MSSA\220\Excercise\EX 3B 03 - Recursive Methods\Recursive Methods\Recursive Methods\bin\Debug\netcoreapp3.1\Recursive Methods.exe
+C:\Users\james\Desktop\MSSA\220\Excercise\EX 3B 03 - Recursive Methods\Recursive Methods\Recursive Methods\bin\Debug\netcoreapp3.1\Recursive Methods.deps.json
+C:\Users\james\Desktop\MSSA\220\Excercise\EX 3B 03 - Recursive Methods\Recursive Methods\Recursive Methods\bin\Debug\netcoreapp3.1\Recursive Methods.runtimeconfig.json
+C:\Users\james\Desktop\MSSA\220\Excercise\EX 3B 03 - Recursive Methods\Recursive Methods\Recursive Methods\bin\Debug\netcoreapp3.1\Recursive Methods.runtimeconfig.dev.json
+C:\Users\james\Desktop\MSSA\220\Excercise\EX 3B 03 - Recursive Methods\Recursive Methods\Recursive Methods\bin\Debug\netcoreapp3.1\Recursive Methods.dll
+C:\Users\james\Desktop\MSSA\220\Excercise\EX 3B 03 - Recursive Methods\Recursive Methods\Recursive Methods\bin\Debug\netcoreapp3.1\Recursive Methods.pdb
+C:\Users\james\Desktop\MSSA\220\Excercise\EX 3B 03 - Recursive Methods\Recursive Methods\Recursive Methods\obj\Debug\netcoreapp3.1\Recursive Methods.csprojAssemblyReference.cache
+C:\Users\james\Desktop\MSSA\220\Excercise\EX 3B 03 - Recursive Methods\Recursive Methods\Recursive Methods\obj\Debug\netcoreapp3.1\Recursive Methods.AssemblyInfoInputs.cache
+C:\Users\james\Desktop\MSSA\220\Excercise\EX 3B 03 - Recursive Methods\Recursive Methods\Recursive Methods\obj\Debug\netcoreapp3.1\Recursive Methods.AssemblyInfo.cs
+C:\Users\james\Desktop\MSSA\220\Excercise\EX 3B 03 - Recursive Methods\Recursive Methods\Recursive Methods\obj\Debug\netcoreapp3.1\Recursive Methods.dll
+C:\Users\james\Desktop\MSSA\220\Excercise\EX 3B 03 - Recursive Methods\Recursive Methods\Recursive Methods\obj\Debug\netcoreapp3.1\Recursive Methods.pdb
